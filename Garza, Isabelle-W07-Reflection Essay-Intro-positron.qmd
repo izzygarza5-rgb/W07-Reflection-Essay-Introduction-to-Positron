@@ -1,0 +1,44 @@
+---
+title: "W07-Reflection Essay-Introduction to Positron"
+author: "Isabelle Garza"
+date: "03-11-2026"
+format: 
+  html: 
+    theme: cosmic
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# **Benefits of Positron compared to R Studio**
+
+-   Positron is designed for multiple languages (R, Python, SQL, etc.), while RStudio is primarily focused on R.
+
+-   Python tools and environments are more smoothly integrated in Positron than in RStudio.
+
+-    Easier handling of different programming environments and dependencies.
+
+# **Various ways you can use AI inside Positron**
+
+-   AI can suggest lines of R or Python code as you type, helping you write scripts faster. Some built-in suggestions are free, while advanced tools like GitHub Copilot require a subscription, but if you're a student, you can apply and it's free
+
+-   AI can explain what a piece of code does, which is useful for learning new functions or understanding unfamiliar scripts.
+
+-   AI can help identify errors in your code and suggest possible fixes or improvements, so instead of taking the extra time to find errors, it will direct you straight to them and help you fix them.
+
+# **Which AI tools have you installed or set up? Which AI tools did you find beneficial for you?**
+
+> I have applied for and been accepted to the GitHub Copilot. This is a great AI tool that has many benefits.
+
+![GitHub Copliot Acceptance](images/GitHub Copliot Acceptance.pdf)
+
+-   Copilot suggests lines of code or even full functions while you type, helping developers write code much faster.
+
+-   developers can complete tasks faster and focus more on solving problems rather than writing repetitive code.
+
+-   It can show examples of how to write code, helping users learn new programming patterns and techniques.
