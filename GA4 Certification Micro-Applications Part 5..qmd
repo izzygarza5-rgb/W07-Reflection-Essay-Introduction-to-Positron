@@ -1,0 +1,59 @@
+---
+title: "GA4 Certification Micro-Applications Part 5"
+author: "Isabelle Garza"
+date: 03/13/26
+format: html
+editor: visual
+---
+
+# **GA4 Certification Exam**
+
+![](images/complete%20exam.pdf)
+
+![Exam Completion and Pass](images/completion%20proof.pdf)
+
+## Exam Reflection
+
+1.  Results summary: Pass / + 96%
+
+2.  The top three topics :
+
+    1.  GA4 report types and where to find them (Acquisition, Tech Details, Advertising, etc.) and understanding what information each report shows.
+
+    2.  Different exploration tools in GA4 (Free form, Funnel exploration, Path exploration) and when each one should be used.
+
+    3.  GA4 data structure concepts like events, parameters, dimensions, metrics, and scopes (user vs session vs event).:
+
+3.  Two questions I'd redo:
+
+    <div>
+
+    -   Understanding the difference between similar GA4 reports, like User Acquisition vs Traffic Acquisition and which one shows first user source vs session source.
+
+    -   GA4 setup and configuration features, such as where to manage events, conversions, audiences, and report customization within the Admin and Library sections.
+
+    </div>
+
+4.  I will add a funnel exploration to my CEP analysis plan so I can track the steps users take before completing a key action (like signing up or making a purchase) and identify where users are dropping off.
+
+# **GA4 “Readiness Check”**
+
+## Option A (CEP / Client GA4):
+
+![KPI](images/KPI.pdf)
+
+This KPI measures how many completed transactions occur on the website, helping evaluate how well the site converts visitors into customers.
+
+### **Supporting report:**
+
+**E commerce Purchases report (Reports → Monetization → E commerce purchases).**
+
+This report shows product performance, purchase counts, and revenue, which helps analyze which products drive the most sales.Funnel Report
+
+![Funnel Report](images/Funnel report-01.pdf)
+
+This screenshot shows the Monetization section in Google Analytics where I will access the E commerce Purchases report to analyze the Purchases KPI for my CEP final deliverable.
+
+## Relativity
+
+This KPI helps measure how effectively the website converts visitors into customers. The E commerce Purchases report supports my project goal by showing which products generate the most purchases and revenue, helping identify what is driving sales and where improvements could increase conversions.
